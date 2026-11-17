@@ -4,7 +4,7 @@
        width="100%">
 </p>
 
-# Wyrd Lab WEAVE Philosophy
+# WYRD Lab: WEAVE Your Research & Development
 
 **W**orkflows for **E**ngineering, **A**nalysis, **V**irtualization & **E**xperimentation.
 
