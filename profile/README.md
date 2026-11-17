@@ -20,7 +20,3 @@ We believe useful engineering tools should be modular, extensible, and interoper
 We bring together models, software, data, and experimentation workflows to make complex systems easier to understand, test, and explore.
 
 *Build independently. Connect meaningfully. Explore freely.*
-
-## Open Source
-
-Our projects support open scientific software development, collaboration, and reproducible research. See individual repositories for licensing, documentation, and contribution information.
